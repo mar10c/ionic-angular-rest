@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-rest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
